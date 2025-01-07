@@ -5,6 +5,7 @@ import { useEffect, useState } from "react";
 
 export function AuthButton() {
   const [isLoggedIn, setIsLoggedIn] = useState(false);
+  // const [isLoading, setIsLoading] = useState(false);
   const [isLoading, setIsLoading] = useState(false);
 
   useEffect(() => {
