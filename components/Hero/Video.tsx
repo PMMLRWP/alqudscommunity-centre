@@ -11,7 +11,7 @@ export default function Video() {
               playsInline
               className="custom-control z-40 w-auto rounded-[20px] ssm:h-[20rem] md:h-[25rem] md:rounded-[40px]  lg:h-[32rem] xl:h-[40rem]"
             >
-              <source src={"/video/video.mp4"} type="video/mp4" />
+              <source src={"/videos/al-quds-compain.mp4"} type="video/mp4" />
             </video>
           </div>
         </div>

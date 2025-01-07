@@ -16,7 +16,7 @@ export default function Hero() {
             </h1>
             
             <p className="font-inter mt-6 text-[0.9rem] leading-8 text-textSecondary md:text-[1.1rem]">
-            l-Quds Community Centre is on the ground and actively  <span className="gradient-border2">working with local communities</span> A to assess how best to support underprivileged families in more than 120 areas of daily life.{" "}
+            Al-Quds Community Centre is on the ground and actively  <span className="gradient-border2">working with local communities</span> A to assess how best to support underprivileged families in more than 120 areas of daily life.{" "}
               <span className="gradient-border2">Sections!</span>
             </p>
             <div className="mt-10 flex items-center justify-center gap-x-6">
@@ -42,7 +42,7 @@ export default function Hero() {
                     ></path>
                   </svg>
                 </span>
-                <span className="relative">Start Your AI Journey</span>
+                <span className="relative">EXPLORE MORE</span>
               </Link>
             </div>
           </div>
